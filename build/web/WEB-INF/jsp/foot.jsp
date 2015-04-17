@@ -109,6 +109,7 @@
     <div class="back-to-top">
         <a href="#" class="conbox back-box"><i class="icon-arrow-up"></i></a>
     </div>
+	<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1254790200'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s11.cnzz.com/z_stat.php%3Fid%3D1254790200%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 </div>
 
 <!-- The javascript -->
